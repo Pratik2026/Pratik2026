@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/Pratik2026/Pratik2026/blob/main/Images/name_1.gif" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
-<h1 align="center">A passionate Frontend Web developer</h1>
+<h1 align="center">A Passionate Frontend Web Developer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik2026&label=Profile%20views&color=0e75b6&style=flat" alt="pratik2026" /> </p>
 	
@@ -113,8 +113,8 @@
 ---
 
 ## <img src="https://github.com/Pratik2026/Pratik2026/blob/main/Images/Statistics.gif" width=5% valign="bottom"> Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik2026&" alt="pratik2026" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pratik2026&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="pratik2026" /></a>
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pratik2026&show_icons=true&locale=en" alt="pratik2026" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik2026&theme=tokyonight&hide_border=true" alt="pratik2026" /></p>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik2026" alt="pratik2026" /></a> </p>
