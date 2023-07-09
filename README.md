@@ -7,7 +7,7 @@
 
 <img align="right" src="https://github.com/Pratik2026/Pratik2026/blob/main/Images/Right_Side.gif" width=30%>
 
-<br>
+<br><br>
 
 - :school: I am a `Sophomore` of Computer Science & Engineering department of [IIITDM Jabalpur](https://iiitdmj.ac.in/)
 - :computer: I am a currently learning `Backend technologies`
