@@ -10,7 +10,7 @@
 <br><br>
 
 - :school: I am a `Sophomore` of Computer Science & Engineering department of [IIITDM Jabalpur](https://iiitdmj.ac.in/)
-- :computer: I am a currently learning `Backend technologies`
+- :computer: I am currently learning `Backend technologies`
 - :smile: Always eager to `expore new things`.
 - :anchor: Reach out to me at **pratiksolanki2026@gmail.com**
 <br>
